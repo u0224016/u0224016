@@ -1,4 +1,14 @@
-## 資管2B  0224016 李萱儀 ##
+# 系統分析 #
+## 資管3B  0224016 李萱儀 ##
+
+實作練習一
+
+## 實作練習一 ##
+- 需求
+- 設計
+- 撰碼
+- 測試
+
 
 **MarkdownPad** is a full-featured Markdown editor for Windows.
 
